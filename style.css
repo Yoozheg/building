@@ -42,7 +42,16 @@ margin-left: -108px;}
 #comments div h3{text-align:center;font:bold 28px "Trebuchet MS";color:white;padding:5px 0;}
 #comments div p{font:16px "Trebuchet MS";color:white;}
 
-#projects{}
+#projects{background-color:#e63e17;background:url(img/red_fon.png) no-repeat top center;height:1007px}
+#projects h2{font:bold 62px "Trebuchet MS"; color:white;text-align:center;padding:50px 0;}
+#projects div p{font:16px "Trebuchet MS";color:white}
+#projects div p.right{text-align:right;}
+.d2{background:url(img/d2.png) no-repeat center top;padding:267px 73px 0 73px;}
+#projects img{margin:38px 0 30px 240px;}
+#projects img.button{margin-left:427px;margin-top:50px}
+.d1{background:url(img/d1.png) no-repeat center top;padding:267px 73px 0 73px;}
+
+
 
 footer{}
 
