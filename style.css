@@ -21,7 +21,14 @@ header{}
 
 #why{}
 
-#how{}
+#how{background-color:#ef541f ;color:white;margin-top:50px;margin-bottom:205px;}
+#how main{height:197px;}
+#how p{display:inline-block;border-left:2px solid white;height:197px;vertical-align:top;padding-left:10px;font:20px "Trebuchet MS"}
+#how p.b1{width:230px;border-left:none;}
+#how p.b2{width:230px;}
+#how p.b3{width:230px;}
+#how p.b4{width:237px;}
+#how p span{display:block;font:bold 108px "Trebuchet MS";}
 
 #comments{}
 
