@@ -15,13 +15,39 @@ main{margin:0 auto;width:998px;position:relative}
 
 header{}
 
-#number{}
+#number{background:url('images/fon_egg.jpg') top center no-repeat;color:white;padding:20px 0;}
+#number main{text-align:center;}
+#number article{display:inline-block;padding-top:90px; margin:0 20px;text-align:left;}
+#number article.n30{background: url('images/30.png') top left no-repeat;}
+#number article.n150{background: url('images/150.png') top left no-repeat;}
+#number article.n20{background: url('images/20.png') top left no-repeat;padding-right:20px;}
+#number article.n12{background: url('images/12.png') top left no-repeat;}
 
-#about{}
+#about{background:url('images/pisya.png') top center no-repeat,url('images/zel_fon.png') top center no-repeat;color:white;}
+#about main{text-align:center;}
+#about h4{font: 40px "Myriad Pro";text-transform:uppercase;padding-top:50px;}
+#about p{font:17px "Trebuchet MS";padding: 30px 0;}
+#about article{display:inline-block;padding-top:250px;width:237px;height:100px;font:18px "Trebuchet MS"}
+#about article.a1{background:url('images/a1.png') top center no-repeat;}
+#about article.a2{background:url('images/a2.png') top center no-repeat;}
+#about article.a3{background:url('images/a3.png') top center no-repeat;}
+#about article.a4{background:url('images/a4.png') top center no-repeat;}
+#about img{padding:30px 0;}
 
-#why{}
+#why{color:white;background:url('images/fon1.jpg') top center no-repeat;}
+#why main{text-align:center;}
+#why h4{font:bold 62px "Trebuchet MS";text-transform:uppercase;padding-top:20px;}
+#why div{padding-top:20px;}
+#why article{display:inline-block;padding-top:210px; width:210px; height:50px;margin:0 50px;}
+#why article.b1{background:url('images/b1.png') top center no-repeat;}
+#why article.b2{background:url('images/b2.png') top center no-repeat;}
+#why article.b3{background:url('images/b3.png') top center no-repeat;}
+#why article.b4{background:url('images/b4.png') top center no-repeat;}
+#why article.b5{background:url('images/b5.png') top center no-repeat;}
+#why article.b6{background:url('images/b6.png') top center no-repeat;}
+#why img{margin:30px 0;}
 
-#how{background-color:#ef541f ;color:white;margin-top:50px;}
+#how{background-color:#ef541f ;color:white;}
 #how main{height:197px;}
 #how p{display:inline-block;border-left:2px solid white;height:197px;vertical-align:top;padding-left:10px;font:20px "Trebuchet MS"}
 #how p.b1{width:230px;border-left:none;}
