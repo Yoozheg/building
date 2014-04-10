@@ -1,5 +1,5 @@
 <?php
- $address = "name@domain.com"; // АДРЕС ПОЧТЫ МЕНЯТЬ ТУТ
+ $address = "info@foliozee.com"; // АДРЕС ПОЧТЫ МЕНЯТЬ ТУТ
  
  function getStr($data, $default = ""){
   if(!isset($_POST[$data])) return $default;
@@ -15,7 +15,7 @@
  $present = getStr('present');
  $color = getStr('color');
 
- $site = "КАПИТАЛЪ";
+ $site = "СЭНДВИЧ-ПАНЕЛИ";
  $subject = "Заявка с сайта " . $site;
  
  $mes = "Имя: ".$name." \nТелефон: ". $phone;
